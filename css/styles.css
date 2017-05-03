@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  font-style: italic;
+  font-weight: bolder;
+  font-family: cursive;
+}
+
+h2 {
+  font-weight: bold;
+  font-family: fantasy;
+  text-align: center;
+  text-decoration: inherit;
+}
+
+.form-group {
+  text-align: left;
+  color: black;
+  background-color: teal;
+}
+
+.container {
+  background-color: pink;
+}
